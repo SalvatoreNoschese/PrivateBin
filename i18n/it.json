@@ -136,7 +136,7 @@
     "Please enter the password for this paste:": "Inserisci la password per questo messaggio:",
     "Could not decrypt data (Wrong key?)": "Non riesco a decifrare i dati (chiave sbagliata?)",
     "Could not delete the paste, it was not stored in burn after reading mode.": "Non riesco a cancellare il messaggio, non è stato salvato in modalità Distruggi-dopo-lettora.",
-    "FOR YOUR EYES ONLY. Don't close this window, this message can't be displayed again.": "FOR YOUR EYES ONLY. Non chiudere questa finestra, il messaggio non può essere visualizzato una seconda volta.",
+    "FOR YOUR EYES ONLY. Don't close this window, this message can't be displayed again.": "SOLO PER I TUOI OCCHI. Non chiudere questa finestra, questo messaggio non potrà essere visualizzato di nuovo.",
     "Could not decrypt comment; Wrong key?": "Non riesco a decifrare il commento (Chiave sbagliata?)",
     "Reply": "Rispondi",
     "Anonymous": "Anonimo",
@@ -222,10 +222,10 @@
     "Error decompressing paste, your browser does not support WebAssembly. Please use another browser to view this paste.": "Errore nella decompressione dell messaggio, il tuo browser non supporta WebAssembly. Utilizza un altro browser per visualizzare questo messaggio.",
     "Start over": "Ricominciare",
     "Paste copied to clipboard": "Messaggio copiato",
-    "To copy paste press on the copy button or use the clipboard shortcut <kbd>Ctrl</kbd>+<kbd>c</kbd>/<kbd>Cmd</kbd>+<kbd>c</kbd>": "To copy paste press on the copy button or use the clipboard shortcut <kbd>Ctrl</kbd>+<kbd>c</kbd>/<kbd>Cmd</kbd>+<kbd>c</kbd>",
+    "To copy paste press on the copy button or use the clipboard shortcut <kbd>Ctrl</kbd>+<kbd>c</kbd>/<kbd>Cmd</kbd>+<kbd>c</kbd>": "Per copiare e incollare, premi il pulsante di copia oppure usa la scorciatoia da tastiera <kbd>Ctrl</kbd>+<kbd>c</kbd>/<kbd>Cmd</kbd>+<kbd>c</kbd>",
     "Copy link": "Copia il link",
-    "Link copied to clipboard": "Link copied to clipboard",
+    "Link copied to clipboard": "Link copiato nella clipboard",
     "Paste text": "Testo del messaggio",
-    "Tabulator key serves as character (Hit <kbd>Ctrl</kbd>+<kbd>m</kbd> or <kbd>Esc</kbd> to toggle)": "Tabulator key serves as character (Hit <kbd>Ctrl</kbd>+<kbd>m</kbd> or <kbd>Esc</kbd> to toggle)",
-    "Theme": "Theme"
+    "Tabulator key serves as character (Hit <kbd>Ctrl</kbd>+<kbd>m</kbd> or <kbd>Esc</kbd> to toggle)": "Il tasto Tab funziona come un carattere (Premi <kbd>Ctrl</kbd>+<kbd>m</kbd> o <kbd>Esc</kbd> per attivare/disattivare)",
+    "Theme": "Tema"
 }
